@@ -1,0 +1,47 @@
+{
+  "version": "3.62.27443.0",
+  "course_id": "6COJLa2cG3a",
+  "title": "storyline dina",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5vlWuVp9OZH",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6S2q9GZbFhP",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6oRtop961NR",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5t0pSSPeeA5",
+      "title": "APAKAH YANG DIMAKSUDKAN DENGAN MULTIMEDIA INTERAKTIF ?",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "60OBKiGK1zD",
+      "title": "penyataan berikut yg manakah betul atau salah tentang multimedia interaktif ? ",
+      "scene_index": "1.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
